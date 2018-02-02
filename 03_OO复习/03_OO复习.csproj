@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F023053A-9632-43A1-8728-9F84192537A9}</ProjectGuid>
+    <ProjectGuid>{8B475906-34C8-4EF7-8E8B-0D7390968BB3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_01_进程</RootNamespace>
-    <AssemblyName>01_进程</AssemblyName>
+    <RootNamespace>_03_OO复习</RootNamespace>
+    <AssemblyName>03_OO复习</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -47,10 +47,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="0413.Net就业班第一天.txt" />
-    <Content Include="VS快捷键.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

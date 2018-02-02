@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_进程", "01_进程\01_�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_打开文件练习", "02_打开文件练习\02_打开文件练习.csproj", "{C1B6B855-8E19-4E4D-8E2A-30EAC243CF17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_OO复习", "03_OO复习\03_OO复习.csproj", "{8B475906-34C8-4EF7-8E8B-0D7390968BB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C1B6B855-8E19-4E4D-8E2A-30EAC243CF17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1B6B855-8E19-4E4D-8E2A-30EAC243CF17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1B6B855-8E19-4E4D-8E2A-30EAC243CF17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B475906-34C8-4EF7-8E8B-0D7390968BB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B475906-34C8-4EF7-8E8B-0D7390968BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B475906-34C8-4EF7-8E8B-0D7390968BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B475906-34C8-4EF7-8E8B-0D7390968BB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
