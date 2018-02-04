@@ -16,6 +16,7 @@ namespace _04_抽象类
                 item.Bark();
                 item.Drink();
             }
+
             /*
             猫咪喵喵叫
             猫咪舔着喝
