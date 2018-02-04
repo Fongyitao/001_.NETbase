@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _04_动物类继承
+namespace _04_抽象类
 {
     class Program
     {
@@ -16,10 +16,17 @@ namespace _04_动物类继承
                 item.Bark();
                 item.Drink();
             }
-
+            /*
+            猫咪喵喵叫
+            猫咪舔着喝
+            小狗汪汪叫
+            小狗舔着喝
+            */
             Console.ReadKey();
         }
     }
+
+    //抽象类
     abstract class Animal
     {
         //抽象成员只能存在于抽象类中

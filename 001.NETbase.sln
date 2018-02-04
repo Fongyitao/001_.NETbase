@@ -9,7 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_打开文件练习", "02
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_OO复习", "03_OO复习\03_OO复习.csproj", "{8B475906-34C8-4EF7-8E8B-0D7390968BB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_动物类继承", "04_动物类继承\04_动物类继承.csproj", "{7DE15E1A-0699-4856-9A35-C9F2904FA56C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_抽象类", "04_动物类继承\04_抽象类.csproj", "{7DE15E1A-0699-4856-9A35-C9F2904FA56C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_里氏转换", "05_里氏转换\05_里氏转换.csproj", "{99B50893-13B7-427C-ADBD-6683499A651C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_虚方法", "06_虚方法\06_虚方法.csproj", "{7ABD68F3-4801-4603-B10C-97700CD9B78B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{7DE15E1A-0699-4856-9A35-C9F2904FA56C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DE15E1A-0699-4856-9A35-C9F2904FA56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DE15E1A-0699-4856-9A35-C9F2904FA56C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99B50893-13B7-427C-ADBD-6683499A651C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B50893-13B7-427C-ADBD-6683499A651C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B50893-13B7-427C-ADBD-6683499A651C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B50893-13B7-427C-ADBD-6683499A651C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ABD68F3-4801-4603-B10C-97700CD9B78B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ABD68F3-4801-4603-B10C-97700CD9B78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ABD68F3-4801-4603-B10C-97700CD9B78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ABD68F3-4801-4603-B10C-97700CD9B78B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
