@@ -19,7 +19,11 @@ namespace _06_虚方法
             /*
             员工9点打卡
             经理11点打卡
-            程序员不打卡*/
+            员工9点打卡
+            */
+
+            Programer zsProgramer = new Programer();
+            zsProgramer.DaKa();//程序员不打卡
 
             Console.ReadKey();
         }
@@ -40,7 +44,8 @@ namespace _06_虚方法
     }
     class Programer : Employee
     {
-        public override void DaKa()
+        //通过new关键字隐藏父类的DaKa方法
+        public new void DaKa()
         {
             Console.WriteLine("程序员不打卡");
         }

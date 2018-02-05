@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_里氏转换", "05_里�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_虚方法", "06_虚方法\06_虚方法.csproj", "{7ABD68F3-4801-4603-B10C-97700CD9B78B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_静态类和静态成员", "07_静态类和静态成员\07_静态类和静态成员.csproj", "{2DCBA184-34F9-4382-878E-BC14986A1D7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{7ABD68F3-4801-4603-B10C-97700CD9B78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7ABD68F3-4801-4603-B10C-97700CD9B78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7ABD68F3-4801-4603-B10C-97700CD9B78B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DCBA184-34F9-4382-878E-BC14986A1D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DCBA184-34F9-4382-878E-BC14986A1D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DCBA184-34F9-4382-878E-BC14986A1D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DCBA184-34F9-4382-878E-BC14986A1D7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
