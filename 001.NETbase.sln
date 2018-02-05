@@ -9,13 +9,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_打开文件练习", "02
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_OO复习", "03_OO复习\03_OO复习.csproj", "{8B475906-34C8-4EF7-8E8B-0D7390968BB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_抽象类", "04_动物类继承\04_抽象类.csproj", "{7DE15E1A-0699-4856-9A35-C9F2904FA56C}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_里氏转换", "05_里氏转换\05_里氏转换.csproj", "{99B50893-13B7-427C-ADBD-6683499A651C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_虚方法", "06_虚方法\06_虚方法.csproj", "{7ABD68F3-4801-4603-B10C-97700CD9B78B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_静态类和静态成员", "07_静态类和静态成员\07_静态类和静态成员.csproj", "{2DCBA184-34F9-4382-878E-BC14986A1D7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_抽象类", "04_抽象类\04_抽象类.csproj", "{7DE15E1A-0699-4856-9A35-C9F2904FA56C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_抽象类_移动设备", "08_抽象类_移动设备\08_抽象类_移动设备.csproj", "{3D138DC7-C548-4692-8F91-BBF46C64FCA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +37,6 @@ Global
 		{8B475906-34C8-4EF7-8E8B-0D7390968BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B475906-34C8-4EF7-8E8B-0D7390968BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B475906-34C8-4EF7-8E8B-0D7390968BB3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7DE15E1A-0699-4856-9A35-C9F2904FA56C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7DE15E1A-0699-4856-9A35-C9F2904FA56C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7DE15E1A-0699-4856-9A35-C9F2904FA56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7DE15E1A-0699-4856-9A35-C9F2904FA56C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{99B50893-13B7-427C-ADBD-6683499A651C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{99B50893-13B7-427C-ADBD-6683499A651C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99B50893-13B7-427C-ADBD-6683499A651C}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -51,6 +49,14 @@ Global
 		{2DCBA184-34F9-4382-878E-BC14986A1D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DCBA184-34F9-4382-878E-BC14986A1D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DCBA184-34F9-4382-878E-BC14986A1D7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DE15E1A-0699-4856-9A35-C9F2904FA56C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE15E1A-0699-4856-9A35-C9F2904FA56C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE15E1A-0699-4856-9A35-C9F2904FA56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE15E1A-0699-4856-9A35-C9F2904FA56C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D138DC7-C548-4692-8F91-BBF46C64FCA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D138DC7-C548-4692-8F91-BBF46C64FCA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D138DC7-C548-4692-8F91-BBF46C64FCA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D138DC7-C548-4692-8F91-BBF46C64FCA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
